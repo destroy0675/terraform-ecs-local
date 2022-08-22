@@ -1,2 +1,3 @@
-# terraform-ecs-local
-test local IaC deployment AWS ECS
+# terraform
+
+By using Terraform we are creating an EC2 Insatnce in AWS environment.
